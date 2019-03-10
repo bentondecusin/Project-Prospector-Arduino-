@@ -1,6 +1,6 @@
 
 
-= Project: {Prospector}
+= Project: Prospector
 
 An interegrated module equipped with various sensors. Built with Arduino.
 
@@ -33,8 +33,11 @@ Load the code to Arduino board
 
 === Contributing
 Rob Foerst
+
 Elias Timmons
+
 Jack Newman
+
 Benton Chengyu Li
 
 
